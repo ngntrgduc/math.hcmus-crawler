@@ -16,7 +16,7 @@ descriptions = [_.text.replace('\r', '').replace('\t', '').replace('\n', '')
 file = Path('README.md').rename(Path('README.md').with_suffix('.txt'))
 with open(file, 'w', encoding='utf-8') as f:
     for i, new in enumerate(news):
-        f.write(f' - [{new}](https://math.hcmus.edu.vn/{links[i]})(**{dates[i]}**): {descriptions[i]}\n')
+        f.write(f' - **{dates[i]}** - [{new}](https://math.hcmus.edu.vn/{links[i]}): {descriptions[i]}\n')
     
 f.close()
 
