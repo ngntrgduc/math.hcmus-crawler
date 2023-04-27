@@ -1,3 +1,4 @@
+ - **26/04/2023** - [TMA Tech Group tuyển dụng việc làm dành cho sinh viên mới tốt nghiệp](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/750-tmatechgroup_td)
  - **25/04/2023** - [Chương trình học bổng toàn phần Thạc sĩ ngành Toán Kỹ thuật - Trường Đại học TU Dortmund, Đức](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/749-hocbong_toankythuat)
  - **24/04/2023** - [Tổng kết Buổi sinh hoạt công dân cuối khóa K2019](https://math.hcmus.edu.vn//tin-tức/748-shcdck_k2019_)
  - **20/04/2023** - [Thông báo Đăng ký Ngành và Chuyên ngành dành cho sinh viên khóa 2021](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/747-thông-báo-đăng-ký-ngành-và-chuyên-ngành-dành-cho-sinh-viên-khóa-2021)
