@@ -6,5 +6,3 @@
  - **19/04/2023** - [Thông tin Buổi sinh hoạt công dân cuối khóa](https://math.hcmus.edu.vn//tin-tức/745-shcdck_k2019)
  - **19/04/2023** - [Thông báo về Seminar Đại số](https://math.hcmus.edu.vn//tin-tức/746-seminar-đại-số)
  - **13/04/2023** - [HỌC BỔNG CATHAY 2023 - “Thịnh trí thành tài cùng Cathay” lần thứ 16](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/744-cathay_hocbong16)
- - **11/04/2023** - [Thông báo seminar Toán học tháng 04/2023](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/742-seminar_april2023)
- - **11/04/2023** - [Công ty Dai-ichi Life Việt Nam tuyển dụng](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/743-dai-ichi-life_tuyendung)
