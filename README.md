@@ -1,3 +1,4 @@
+ - **08/05/2023** - [Lịch tiếp sinh viên của Ban cố vấn học tập từ 8/5 đế 12/5/2023 (có điều chỉnh)](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/753-bcvht_08052023)
  - **04/05/2023** - [Chương trình đào tạo hè NEMO2023 Summer School tại Vienna, Áo](https://math.hcmus.edu.vn//tin-tức/752-nemo2023_vienna)
  - **27/04/2023** - [Chương trình Học bổng Thực tập Trực tuyến ngắn hạn (Virtual Micro-internship) cùng các doanh nghiệp/tổ chức đa quốc gia và New Zealand.](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/751-hb_enz)
  - **26/04/2023** - [TMA Tech Group tuyển dụng việc làm dành cho sinh viên mới tốt nghiệp](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/750-tmatechgroup_td)
