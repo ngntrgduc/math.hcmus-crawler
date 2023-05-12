@@ -1,3 +1,4 @@
+ - **11/05/2023** - [Seminar bộ môn Giải tích](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/756-seminar-bộ-môn-giải-tích)
  - **10/05/2023** - [Trường hè Toán học sinh viên 2023 - VIASM](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/755-summerschool2023_viasm)
  - **09/05/2023** - [Học Tiến sĩ Toán ở Đại học Quốc gia Singapore (NUS) - Thông tin và cơ hội](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/754-talkshow_nus)
  - **08/05/2023** - [Lịch tiếp sinh viên của Ban cố vấn học tập từ 8/5 đế 12/5/2023 (có điều chỉnh)](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/753-bcvht_08052023)
@@ -6,4 +7,3 @@
  - **26/04/2023** - [TMA Tech Group tuyển dụng việc làm dành cho sinh viên mới tốt nghiệp](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/750-tmatechgroup_td)
  - **25/04/2023** - [Chương trình học bổng toàn phần Thạc sĩ ngành Toán Kỹ thuật - Trường Đại học TU Dortmund, Đức](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/749-hocbong_toankythuat)
  - **24/04/2023** - [Tổng kết Buổi sinh hoạt công dân cuối khóa K2019](https://math.hcmus.edu.vn//tin-tức/748-shcdck_k2019_)
- - **20/04/2023** - [Thông báo Đăng ký Ngành và Chuyên ngành dành cho sinh viên khóa 2021](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/747-thông-báo-đăng-ký-ngành-và-chuyên-ngành-dành-cho-sinh-viên-khóa-2021)
