@@ -1,3 +1,5 @@
+ - **16/05/2023** - [Thông tin tuyển sinh các ngành của Khoa Toán - Tin học năm 2023](https://math.hcmus.edu.vn//tuyển-sinh/tuyen-sinh-dh2023)
+ - **16/05/2023** - [Thông báo tuyển sinh chương trình Thạc sỹ Toán ứng dụng Pháp Việt năm 2023](https://math.hcmus.edu.vn//tuyển-sinh/tudpv2023)
  - **11/05/2023** - [Seminar bộ môn Giải tích](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/756-seminar-bộ-môn-giải-tích)
  - **10/05/2023** - [Trường hè Toán học sinh viên 2023 - VIASM](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/755-summerschool2023_viasm)
  - **09/05/2023** - [Học Tiến sĩ Toán ở Đại học Quốc gia Singapore (NUS) - Thông tin và cơ hội](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/754-talkshow_nus)
@@ -5,4 +7,3 @@
  - **04/05/2023** - [Chương trình đào tạo hè NEMO2023 Summer School tại Vienna, Áo](https://math.hcmus.edu.vn//tin-tức/752-nemo2023_vienna)
  - **27/04/2023** - [Chương trình Học bổng Thực tập Trực tuyến ngắn hạn (Virtual Micro-internship) cùng các doanh nghiệp/tổ chức đa quốc gia và New Zealand.](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/751-hb_enz)
  - **26/04/2023** - [TMA Tech Group tuyển dụng việc làm dành cho sinh viên mới tốt nghiệp](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/750-tmatechgroup_td)
- - **25/04/2023** - [Chương trình học bổng toàn phần Thạc sĩ ngành Toán Kỹ thuật - Trường Đại học TU Dortmund, Đức](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/749-hocbong_toankythuat)
