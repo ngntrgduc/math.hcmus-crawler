@@ -1,3 +1,4 @@
+ - **17/05/2023** - [Trường hè 2023](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/757-trường-hè-2023)
  - **16/05/2023** - [Thông tin tuyển sinh các ngành của Khoa Toán - Tin học năm 2023](https://math.hcmus.edu.vn//tuyển-sinh/tuyen-sinh-dh2023)
  - **16/05/2023** - [Thông báo tuyển sinh chương trình Thạc sỹ Toán ứng dụng Pháp Việt năm 2023](https://math.hcmus.edu.vn//tuyển-sinh/tudpv2023)
  - **11/05/2023** - [Seminar bộ môn Giải tích](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/756-seminar-bộ-môn-giải-tích)
@@ -6,4 +7,3 @@
  - **08/05/2023** - [Lịch tiếp sinh viên của Ban cố vấn học tập từ 8/5 đế 12/5/2023 (có điều chỉnh)](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/753-bcvht_08052023)
  - **04/05/2023** - [Chương trình đào tạo hè NEMO2023 Summer School tại Vienna, Áo](https://math.hcmus.edu.vn//tin-tức/752-nemo2023_vienna)
  - **27/04/2023** - [Chương trình Học bổng Thực tập Trực tuyến ngắn hạn (Virtual Micro-internship) cùng các doanh nghiệp/tổ chức đa quốc gia và New Zealand.](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/751-hb_enz)
- - **26/04/2023** - [TMA Tech Group tuyển dụng việc làm dành cho sinh viên mới tốt nghiệp](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/750-tmatechgroup_td)
