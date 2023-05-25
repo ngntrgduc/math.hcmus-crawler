@@ -1,3 +1,4 @@
+ - **24/05/2023** - [Tuyển dụng giáo viên cơ hữu](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/759-tuyển-dụng-giáo-viên-cơ-hữu)
  - **18/05/2023** - [Tư vấn tuyển sinh chương trình Thạc sỹ Toán ứng dụng Pháp Việt](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/758-tư-vấn-tuyển-sinh-chương-trình-thạc-sỹ-toán-ứng-dụng-pháp-việt)
  - **17/05/2023** - [Trường hè 2023](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/757-trường-hè-2023)
  - **16/05/2023** - [Thông tin tuyển sinh các ngành của Khoa Toán - Tin học năm 2023](https://math.hcmus.edu.vn//tuyển-sinh/tuyen-sinh-dh2023)
