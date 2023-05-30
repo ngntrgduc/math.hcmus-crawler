@@ -6,4 +6,3 @@
  - **11/05/2023** - [Seminar bộ môn Giải tích](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/756-seminar-bộ-môn-giải-tích)
  - **10/05/2023** - [Trường hè Toán học sinh viên 2023 - VIASM](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/755-summerschool2023_viasm)
  - **09/05/2023** - [Học Tiến sĩ Toán ở Đại học Quốc gia Singapore (NUS) - Thông tin và cơ hội](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/754-talkshow_nus)
- - **08/05/2023** - [Lịch tiếp sinh viên của Ban cố vấn học tập từ 8/5 đế 12/5/2023 (có điều chỉnh)](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/753-bcvht_08052023)
