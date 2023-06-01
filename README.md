@@ -4,4 +4,3 @@
  - **16/05/2023** - [Thông tin tuyển sinh các ngành của Khoa Toán - Tin học năm 2023](https://math.hcmus.edu.vn//tuyển-sinh/tuyen-sinh-dh2023)
  - **16/05/2023** - [Thông báo tuyển sinh chương trình Thạc sỹ Toán ứng dụng Pháp Việt năm 2023](https://math.hcmus.edu.vn//tuyển-sinh/tudpv2023)
  - **11/05/2023** - [Seminar bộ môn Giải tích](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/756-seminar-bộ-môn-giải-tích)
- - **10/05/2023** - [Trường hè Toán học sinh viên 2023 - VIASM](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/755-summerschool2023_viasm)
