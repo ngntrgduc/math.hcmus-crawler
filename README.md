@@ -1,3 +1,4 @@
+ - **09/06/2023** - [HỘI VIỆT MỸ VUS THÔNG BÁO TUYỂN DỤNG TRỢ GIẢNG TOÁN/LÝ](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/763-hội-việt-mỹ-vus-thông-báo-tuyển-dụng-trợ-giảng-toán-lý)
  - **08/06/2023** - [Thông báo Seminar Xác suất - Thống kê](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/762-seminar_xstk_120623)
  - **05/06/2023** - [Seminar Giải tích](https://math.hcmus.edu.vn//tin-tức/761-seminar-giải-tích)
  - **01/06/2023** - [Quy chế xét, cấp học bổng thuộc Chương trình trọng điểm quốc gia phát triển Toán học giai đoạn 2021 đến 2030.](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/760-quy-chế-xét,-cấp-học-bổng-thuộc-chương-trình-trọng-điểm-quốc-gia-phát-triển-toán-học-giai-đoạn-2021-đến-2030)
