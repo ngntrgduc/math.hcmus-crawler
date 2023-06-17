@@ -1,3 +1,4 @@
+ - **16/06/2023** - [Seminar Bộ môn giải tích](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/765-seminar-bộ-môn-giải-tích-2)
  - **13/06/2023** - [DANH SÁCH SINH VIÊN ĐƯỢC DUYỆT THAM GIA  TRƯỜNG HÈ TOÁN HỌC SINH VIÊN 2023 DO VIỆN NGHIÊN CỨU CAO CẤP VỀ TOÁN (VIASM) TỔ CHỨC](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/764-danh-sách-sinh-viên-đăng-kí-tham-gia-trường-hè-toán-học-sinh-viên-2023)
  - **09/06/2023** - [HỘI VIỆT MỸ VUS THÔNG BÁO TUYỂN DỤNG TRỢ GIẢNG TOÁN/LÝ](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/763-hội-việt-mỹ-vus-thông-báo-tuyển-dụng-trợ-giảng-toán-lý)
  - **08/06/2023** - [Thông báo Seminar Xác suất - Thống kê](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/762-seminar_xstk_120623)
