@@ -1,5 +1,5 @@
+ - **24/06/2023** - [Thông báo trường hè sinh viên nghiên cứu khoa học 2023 - VIASM](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/766-thông-báo-trường-hè-sinh-viên-nghiên-cứu-khoa-học-2023)
  - **23/06/2023** - [Thông báo mở học phần Hè (HK3/2022-2023) dành cho sv học lại](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/767-thông-báo-mở-học-phần-hè-hk3-2022-2023-dành-cho-sv-học-lại)
- - **22/06/2023** - [Thông báo trường hè sinh viên nghiên cứu khoa học 2023 - VIASM](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/766-thông-báo-trường-hè-sinh-viên-nghiên-cứu-khoa-học-2023)
  - **22/06/2023** - [Danh sách sinh viên được duyệt tham gia trường hè toán học sinh viên 2023 do Viện Nghiên cứu cao cấp về Toán (VIASM) tổ chức](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/764-danh-sách-sinh-viên-đăng-kí-tham-gia-trường-hè-toán-học-sinh-viên-2023)
  - **22/06/2023** - [Hội Việt Mỹ VUS thông báo tuyển dụng Trợ giảng Toán/Lý](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/763-hội-việt-mỹ-vus-thông-báo-tuyển-dụng-trợ-giảng-toán-lý)
  - **16/06/2023** - [Seminar Bộ môn giải tích](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/765-seminar-bộ-môn-giải-tích-2)
