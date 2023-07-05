@@ -1,3 +1,5 @@
+ - **04/07/2023** - [Lịch bảo vệ Khóa luận Tốt nghiệp HK2/2022-2023](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/772-lịch-bảo-vệ-khóa-luận-tốt-nghiệp-hk2-2022-2023)
+ - **04/07/2023** - [Thông báo Tuyển sinh đi học tại Cuba năm 2023 - Bộ Giáo dục và Đào tạo](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/771-thông-báo-tuyển-sinh-đi-học-tại-cuba-năm-2023-bộ-giáo-dục-và-đào-tạo)
  - **30/06/2023** - [Trung tâm Toán Titan thông báo tuyển dụng giáo viên cơ hữu](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/770-trung-tâm-toán-titan-thông-báo-tuyển-dụng-giáo-viên-cơ-hữu)
  - **30/06/2023** - [Thông báo Chương trình học bổng SNU President Fellowship (SPF) học kỳ Xuân 2024 - Đại học Quốc gia Seoul](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/769-thông-báo-chương-trình-học-bổng-snu-president-fellowship-spf-học-kỳ-xuân-2024-đại-học-quốc-gia-seoul)
  - **30/06/2023** - [Thông báo Diễn đàn Du học Pháp 2023 - UEVF & Campus France](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/768-thông-báo-diễn-đàn-du-học-pháp-2023-uevf-campus-france)
