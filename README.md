@@ -10,5 +10,3 @@
  - **30/06/2023** - [Thông báo Diễn đàn Du học Pháp 2023 - UEVF & Campus France](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/768-thông-báo-diễn-đàn-du-học-pháp-2023-uevf-campus-france)
  - **27/06/2023** - [Thông báo mở học phần Hè (HK3/2022-2023) dành cho sv học lại](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/767-thông-báo-mở-học-phần-hè-hk3-2022-2023-dành-cho-sv-học-lại)
  - **24/06/2023** - [Thông báo trường hè sinh viên nghiên cứu khoa học 2023 - VIASM](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/766-thông-báo-trường-hè-sinh-viên-nghiên-cứu-khoa-học-2023)
- - **22/06/2023** - [Danh sách sinh viên được duyệt tham gia trường hè toán học sinh viên 2023 do Viện Nghiên cứu cao cấp về Toán (VIASM) tổ chức](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/764-danh-sách-sinh-viên-đăng-kí-tham-gia-trường-hè-toán-học-sinh-viên-2023)
- - **22/06/2023** - [Hội Việt Mỹ VUS thông báo tuyển dụng Trợ giảng Toán/Lý](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/763-hội-việt-mỹ-vus-thông-báo-tuyển-dụng-trợ-giảng-toán-lý)
