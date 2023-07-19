@@ -8,4 +8,3 @@
  - **30/06/2023** - [Trung tâm Toán Titan thông báo tuyển dụng giáo viên cơ hữu](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/770-trung-tâm-toán-titan-thông-báo-tuyển-dụng-giáo-viên-cơ-hữu)
  - **30/06/2023** - [Thông báo Chương trình học bổng SNU President Fellowship (SPF) học kỳ Xuân 2024 - Đại học Quốc gia Seoul](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/769-thông-báo-chương-trình-học-bổng-snu-president-fellowship-spf-học-kỳ-xuân-2024-đại-học-quốc-gia-seoul)
  - **30/06/2023** - [Thông báo Diễn đàn Du học Pháp 2023 - UEVF & Campus France](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/768-thông-báo-diễn-đàn-du-học-pháp-2023-uevf-campus-france)
- - **27/06/2023** - [Thông báo mở học phần Hè (HK3/2022-2023) dành cho sv học lại](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/767-thông-báo-mở-học-phần-hè-hk3-2022-2023-dành-cho-sv-học-lại)
