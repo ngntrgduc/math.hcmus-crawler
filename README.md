@@ -1,2 +1,1 @@
  - **20/07/2023** - [Thông báo Seminar Thống kê và Khoa học dữ liệu (Tháng 7/2023)](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/778-seminar_probastat_0723)
- - **10/07/2023** - [THÔNG BÁO TUYỂN DỤNG TRỢ GIẢNG VÀ GIẢNG VIÊN KHOA TOÁN - TIN HỌC](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/777-thông-báo-tuyển-dụng-trợ-giảng-và-giảng-viên-khoa-toán-tin-học)
