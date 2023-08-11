@@ -1,2 +1,1 @@
  - **05/08/2023** - [Thông báo Giải thưởng Lê Văn Thới năm 2023](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/779-thông-báo-giải-thưởng-lê-văn-thới-năm-2023)
- - **20/07/2023** - [Thông báo Seminar Thống kê và Khoa học dữ liệu (Tháng 7/2023)](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/778-seminar_probastat_0723)
