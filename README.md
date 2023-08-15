@@ -1,1 +1,2 @@
+ - **14/08/2023** - [Thông báo tuyển dụng Trợ lý sinh viên](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/780-tuyendung_t82023_tlsv)
  - **05/08/2023** - [Thông báo Giải thưởng Lê Văn Thới năm 2023](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/779-thông-báo-giải-thưởng-lê-văn-thới-năm-2023)
