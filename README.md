@@ -1,3 +1,5 @@
+ - **25/08/2023** - [Thông báo tuyển sinh đào tạo sau đại học năm 2023 - đợt 2](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/786-thông-báo-tuyển-sinh-đào-tạo-sau-đại-học-năm-2023-đợt-2)
+ - **25/08/2023** - [Thông báo tuyển dụng Trợ giảng của Bộ môn Xác suất - Thống kê](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/785-tuyen_dung_trgiang_2508)
  - **22/08/2023** - [Mathematical Analysis Seminar   Academic Year 2022-2023](https://math.hcmus.edu.vn//tin-tức/784-mathematical-analysis-seminar%20-academic-year-2022-2023)
  - **22/08/2023** - [Khoa Khoa học cơ bản, Đại học Y dược tuyển dụng Giảng viên Tin học](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/783-tuyen_dung_gvth_0823)
  - **17/08/2023** - [Thông báo đăng ký học phần Thực tập sư phạm Toán HK1/2023-2024](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/782-thông-báo-đăng-ký-học-phần-thực-tập-sư-phạm-toán-hk1-2023-2024)
