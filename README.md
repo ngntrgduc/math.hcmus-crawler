@@ -1,3 +1,5 @@
+ - **27/08/2023** - [Thông báo đăng ký thay đổi ngành/chuyên ngành đối với Khóa 2021](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/789-thông-báo-đăng-ký-thay-đổi-ngành-chuyên-ngành-đối-với-khóa-2021)
+ - **27/08/2023** - [Thông báo ĐKHP: Seminar - Khóa luận tốt nghiệp - Thực tập đồ án thực tế (HK1/2023-2024)](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/788-thông-báo-đkhp-seminar-khóa-luận-tốt-nghiệp-thực-tập-đồ-án-thực-tế-hk1-2023-2024)
  - **26/08/2023** - [Thời khóa biểu bậc đại học học kì 1 năm học 2023-2024](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/787-thời-khóa-biểu-bậc-đại-học-học-kì-1-năm-học-2023-2024)
  - **25/08/2023** - [Thông báo tuyển sinh đào tạo sau đại học năm 2023 - đợt 2](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/786-thông-báo-tuyển-sinh-đào-tạo-sau-đại-học-năm-2023-đợt-2)
  - **25/08/2023** - [Thông báo tuyển dụng Trợ giảng của Bộ môn Xác suất - Thống kê](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/785-tuyen_dung_trgiang_2508)
