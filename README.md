@@ -1,3 +1,4 @@
+ - **28/08/2023** - [Nộp đơn đăng ký xét vào/ra Chương trình Tài năng Học kì 1 Năm học 2023-2024](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/790-nộp-đơn-đăng-ký-xét-vào-ra-chương-trình-tài-năng-học-kì-1-năm-học-2023-2024)
  - **27/08/2023** - [Thông báo đăng ký thay đổi ngành/chuyên ngành đối với Khóa 2021](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/789-thông-báo-đăng-ký-thay-đổi-ngành-chuyên-ngành-đối-với-khóa-2021)
  - **27/08/2023** - [Thông báo ĐKHP: Seminar - Khóa luận tốt nghiệp - Thực tập đồ án thực tế (HK1/2023-2024)](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/788-thông-báo-đkhp-seminar-khóa-luận-tốt-nghiệp-thực-tập-đồ-án-thực-tế-hk1-2023-2024)
  - **26/08/2023** - [Thời khóa biểu bậc đại học học kì 1 năm học 2023-2024](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/787-thời-khóa-biểu-bậc-đại-học-học-kì-1-năm-học-2023-2024)
