@@ -1,3 +1,4 @@
+ - **02/09/2023** - [Thông báo tuyển dụng giáo viên năm học 2023-2024](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/792-thông-báo-tuyển-dụng-giáo-viên-năm-học-2023-2024)
  - **01/09/2023** - [Nộp đơn đăng ký xét vào/ra Chương trình Tài năng Học kì 1 Năm học 2023-2024](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/790-nộp-đơn-đăng-ký-xét-vào-ra-chương-trình-tài-năng-học-kì-1-năm-học-2023-2024)
  - **30/08/2023** - [Học bổng Chương trình Toán học kỳ I năm học 2023 – 2024](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/791-hb-toan-2023-2024)
  - **27/08/2023** - [Thông báo đăng ký thay đổi ngành/chuyên ngành đối với Khóa 2021](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/789-thông-báo-đăng-ký-thay-đổi-ngành-chuyên-ngành-đối-với-khóa-2021)
