@@ -1,3 +1,4 @@
+ - **12/09/2023** - [TUYỂN CHỌN SINH VIÊN VÀO CHƯƠNG TRÌNH CNTN 2023](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/795-tuyen-chon-dgnlt-cntn-2023)
  - **10/09/2023** - [Học bổng Chương trình Toán học kỳ I năm học 2023 – 2024](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/791-hb-toan-2023-2024)
  - **05/09/2023** - [THÔNG BÁO TUYỂN CHỌN SINH VIÊN CHƯƠNG TRÌNH CỬ NHÂN TÀI NĂNG KHÓA TUYỂN 2023](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/794-tuyen-chon-cntn-2023)
  - **05/09/2023** - [Seminar Nghiên cứu sinh Bộ môn Giải tích](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/793-seminar-nghiên-cứu-sinh-bộ-môn-giải-tích)
