@@ -1,3 +1,4 @@
+ - **14/09/2023** - [DANH SÁCH LỚP CỬ NHÂN TÀI NĂNG KHÓA 2023](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/797-ds-cntn-2023)
  - **12/09/2023** - [Các mốc thời gian Tân sinh viên 2023 cần lưu ý](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/796-các-mốc-thời-gian-tân-sinh-viên-2023-cần-lưu-ý)
  - **12/09/2023** - [TUYỂN CHỌN SINH VIÊN VÀO CHƯƠNG TRÌNH CNTN 2023](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/795-tuyen-chon-dgnlt-cntn-2023)
  - **10/09/2023** - [Học bổng Chương trình Toán học kỳ I năm học 2023 – 2024](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/791-hb-toan-2023-2024)
