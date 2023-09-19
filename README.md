@@ -1,3 +1,4 @@
+ - **18/09/2023** - [Môn Lập trình song song, Phân tích mạng xã hội Khóa 2020](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/803-môn-lập-trình-song-song,-phân-tích-mạng-xã-hội-khóa-2020)
  - **17/09/2023** - [Thông báo đổi tên học phần Đại số tuyến tính (MTH00030) và TH Đại số tuyến tính](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/802-tb_doi_ten_hp_dstt)
  - **16/09/2023** - [Thông báo các học phần bị Hủy_HK1/2023-2024](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/799-thông-báo-các-học-phần-bị-hủy_hk1-2023-2024)
  - **16/09/2023** - [Mathematical Analysis Seminar](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/798-mathematical-analysis-seminar)
