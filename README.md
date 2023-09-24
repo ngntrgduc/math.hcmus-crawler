@@ -9,4 +9,3 @@
  - **10/09/2023** - [Học bổng Chương trình Toán học kỳ I năm học 2023 – 2024](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/791-hb-toan-2023-2024)
  - **05/09/2023** - [THÔNG BÁO TUYỂN CHỌN SINH VIÊN CHƯƠNG TRÌNH CỬ NHÂN TÀI NĂNG KHÓA TUYỂN 2023](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/794-tuyen-chon-cntn-2023)
  - **05/09/2023** - [Seminar Nghiên cứu sinh Bộ môn Giải tích](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/793-seminar-nghiên-cứu-sinh-bộ-môn-giải-tích)
- - **02/09/2023** - [Thông báo tuyển dụng giáo viên năm học 2023-2024](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/792-thông-báo-tuyển-dụng-giáo-viên-năm-học-2023-2024)
