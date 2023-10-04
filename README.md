@@ -5,4 +5,3 @@
  - **17/09/2023** - [Thông báo đổi tên học phần Đại số tuyến tính (MTH00030) và TH Đại số tuyến tính](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/802-tb_doi_ten_hp_dstt)
  - **16/09/2023** - [Mathematical Analysis Seminar](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/798-mathematical-analysis-seminar)
  - **14/09/2023** - [DANH SÁCH LỚP CỬ NHÂN TÀI NĂNG KHÓA 2023](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/797-ds-cntn-2023)
- - **12/09/2023** - [Các mốc thời gian Tân sinh viên 2023 cần lưu ý](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/796-các-mốc-thời-gian-tân-sinh-viên-2023-cần-lưu-ý)
