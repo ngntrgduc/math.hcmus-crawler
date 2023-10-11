@@ -1,3 +1,5 @@
+ - **10/10/2023** - [[Thông báo] KẾ HOẠCH TỔ CHỨC TẬP HUẤN KỸ NĂNG HỌC TẬP CHO SV KHÓA 2023](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/813-thông-báo-kế-hoạch-tổ-chức-tập-huấn-kỹ-năng-học-tập-cho-sv-khóa-2023)
+ - **10/10/2023** - [Seminar Nghiên cứu sinh Bộ môn Giải tích (Tháng 10/2023)](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/814-seminar-nghiên-cứu-sinh-bộ-môn-giải-tích-tháng-10-2023)
  - **07/10/2023** - [Buổi gặp gỡ và trao đổi với các Giáo sư đến từ trường NCU, Đài Loan](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/810-buổi-gặp-gỡ-và-trao-đổi-với-các-giáo-sư-từ-trường-ncu,-đài-loan)
  - **05/10/2023** - [Thông báo Cuộc thi Toán Mô hình SCUDEM](https://math.hcmus.edu.vn//tin-tức/thông-tin-toán-tin-học/809-thông-báo-cuộc-thi-toán-mô-hình-scudem)
  - **26/09/2023** - [Khoa Toán - Tin học ra mắt kênh thông tin trên Zalo](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/805-khoa-toán-tin-hoc-ra-mắt-kênh-thông-tin-trên-zalo)
