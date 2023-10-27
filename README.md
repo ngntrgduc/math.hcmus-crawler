@@ -1,3 +1,4 @@
+ - **26/10/2023** - [Thông báo chương trình học bổng “Ước mơ cho em” của Đài truyền hình TP.HCM (HTV)](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/824-thông-báo-chương-trình-học-bổng-“ước-mơ-cho-em”-của-đài-truyền-hình-tp-hcm-htv)
  - **20/10/2023** - [DIỄN ĐÀN KHOA HỌC - DOANH NGHIỆP VÀ ĐỔI MỚI SÁNG TẠO LẦN I - 2023](https://math.hcmus.edu.vn//tin-tức/822-cuusv)
  - **16/10/2023** - [TMA Tech Group tuyển dụng vị trí Kỹ Sư Công Nghệ dành cho các bạn sinh viên mới tốt nghiệp.](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/820-tma-tech-group-tuyển-dụng-vị-trí-kỹ-sư-công-nghệ-dành-cho-các-bạn-sinh-viên-mới-tốt-nghiệp)
  - **16/10/2023** - [Chương trình học bổng Hong Kong cho bậc Tiến sĩ](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/818-chương-trình-học-bổng-hong-kong-cho-bậc-tiến-sĩ)
