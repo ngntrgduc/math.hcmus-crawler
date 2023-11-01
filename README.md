@@ -1,4 +1,4 @@
- - **30/10/2023** - [Workshop Khoa học dữ liệu và Trí tuệ nhân tạo trong ngành bán lẻ](https://math.hcmus.edu.vn//tin-tức/thông-tin-toán-tin-học/823-workshop-khoa-học-dữ-liệu-và-trí-tuệ-nhân-tạo-trong-ngành-bán-lẻ)
+ - **31/10/2023** - [Workshop Khoa học dữ liệu và Trí tuệ nhân tạo trong ngành bán lẻ](https://math.hcmus.edu.vn//tin-tức/thông-tin-toán-tin-học/823-workshop-khoa-học-dữ-liệu-và-trí-tuệ-nhân-tạo-trong-ngành-bán-lẻ)
  - **26/10/2023** - [Thông báo chương trình học bổng “Ước mơ cho em” của Đài truyền hình TP.HCM (HTV)](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/824-thông-báo-chương-trình-học-bổng-“ước-mơ-cho-em”-của-đài-truyền-hình-tp-hcm-htv)
  - **20/10/2023** - [DIỄN ĐÀN KHOA HỌC - DOANH NGHIỆP VÀ ĐỔI MỚI SÁNG TẠO LẦN I - 2023](https://math.hcmus.edu.vn//tin-tức/822-cuusv)
  - **16/10/2023** - [TMA Tech Group tuyển dụng vị trí Kỹ Sư Công Nghệ dành cho các bạn sinh viên mới tốt nghiệp.](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/820-tma-tech-group-tuyển-dụng-vị-trí-kỹ-sư-công-nghệ-dành-cho-các-bạn-sinh-viên-mới-tốt-nghiệp)
@@ -8,4 +8,3 @@
  - **14/10/2023** - [Thông báo Cuộc thi Toán Mô hình SCUDEM](https://math.hcmus.edu.vn//tin-tức/thông-tin-toán-tin-học/809-thông-báo-cuộc-thi-toán-mô-hình-scudem)
  - **14/10/2023** - [Seminar Nghiên cứu sinh Bộ môn Giải tích (Tháng 10/2023)](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/814-seminar-nghiên-cứu-sinh-bộ-môn-giải-tích-tháng-10-2023)
  - **14/10/2023** - [Chương trình thực tập của sinh viên tại TMA Tech Group, Industry Internship](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/815-chương-trình-thực-tập-của-sinh-viên-tại-tma-tech-group,-industry-internship)
- - **10/10/2023** - [[Thông báo] KẾ HOẠCH TỔ CHỨC TẬP HUẤN KỸ NĂNG HỌC TẬP CHO SV KHÓA 2023](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/813-thông-báo-kế-hoạch-tổ-chức-tập-huấn-kỹ-năng-học-tập-cho-sv-khóa-2023)
