@@ -1,3 +1,4 @@
+ - **01/11/2023** - [Marvell Excellence Scholarship 2024](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/826-marvell-excellence-scholarship-2024)
  - **31/10/2023** - [Workshop Khoa học dữ liệu và Trí tuệ nhân tạo trong ngành bán lẻ](https://math.hcmus.edu.vn//tin-tức/thông-tin-toán-tin-học/823-workshop-khoa-học-dữ-liệu-và-trí-tuệ-nhân-tạo-trong-ngành-bán-lẻ)
  - **26/10/2023** - [Thông báo chương trình học bổng “Ước mơ cho em” của Đài truyền hình TP.HCM (HTV)](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/824-thông-báo-chương-trình-học-bổng-“ước-mơ-cho-em”-của-đài-truyền-hình-tp-hcm-htv)
  - **20/10/2023** - [DIỄN ĐÀN KHOA HỌC - DOANH NGHIỆP VÀ ĐỔI MỚI SÁNG TẠO LẦN I - 2023](https://math.hcmus.edu.vn//tin-tức/822-cuusv)
