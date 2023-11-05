@@ -13,6 +13,3 @@
  - **16/10/2023** - [Chương trình học bổng Hong Kong cho bậc Tiến sĩ](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/818-chương-trình-học-bổng-hong-kong-cho-bậc-tiến-sĩ)
  - **16/10/2023** - [Thông báo tiếp nhận Hồ sơ tuyên dương Quỹ Bảo trợ Tài năng Trẻ TP. Hồ Chí Minh năm 2023](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/819-thông-báo-tiếp-nhận-hồ-sơ-tuyên-dương-quỹ-bảo-trợ-tài-năng-trẻ-tp-hồ-chí-minh-năm-2023)
  - **16/10/2023** - [Seminar Xác suất - Thống kê (Tháng 10/2023)](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/816-seminar-xác-suất-thống-kê-tháng-10-2023)
- - **14/10/2023** - [Thông báo Cuộc thi Toán Mô hình SCUDEM](https://math.hcmus.edu.vn//tin-tức/thông-tin-toán-tin-học/809-thông-báo-cuộc-thi-toán-mô-hình-scudem)
- - **14/10/2023** - [Seminar Nghiên cứu sinh Bộ môn Giải tích (Tháng 10/2023)](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/814-seminar-nghiên-cứu-sinh-bộ-môn-giải-tích-tháng-10-2023)
- - **14/10/2023** - [Chương trình thực tập của sinh viên tại TMA Tech Group, Industry Internship](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/815-chương-trình-thực-tập-của-sinh-viên-tại-tma-tech-group,-industry-internship)
