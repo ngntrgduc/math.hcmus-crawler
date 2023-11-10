@@ -1,3 +1,4 @@
+ - **09/11/2023** - [HRS Group tuyển dụng vị trí Thực tập sinh Machine Learning](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/834-hrs-group-tuyển-dụng-vị-trí-thực-tập-sinh-machine-learning)
  - **03/11/2023** - [CUỘC THI VIETNAM DATATHON 2023](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/833-cuộc-thi-vietnam-datathon-2023)
  - **03/11/2023** - [ Đăng Ký Tham Quan Công Ty Hrs Group Ngày 24/11/2023](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/825-đăng-ký-tham-quan-công-ty-hrs-group-ngày-24-11-2023)
  - **03/11/2023** - [Workshop Khoa học dữ liệu và Trí tuệ nhân tạo trong ngành bán lẻ](https://math.hcmus.edu.vn//tin-tức/thông-tin-toán-tin-học/823-workshop-khoa-học-dữ-liệu-và-trí-tuệ-nhân-tạo-trong-ngành-bán-lẻ)
