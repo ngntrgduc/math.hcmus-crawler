@@ -9,4 +9,3 @@
  - **02/11/2023** - [Marvell Excellence Scholarship 2024](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/826-marvell-excellence-scholarship-2024)
  - **02/11/2023** - [THÔNG BÁO NỘP HỒ SƠ BẢO VỆ LUẬN VĂN THẠC SĨ TOÁN ỨNG DỤNG _ĐỢT THÁNG 12.2023](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/828-thông-báo-nộp-hồ-sơ-bảo-vệ-luận-văn-thạc-sĩ-toán-ứng-dụng-_đợt-tháng-12-2023)
  - **26/10/2023** - [Thông báo chương trình học bổng “Ước mơ cho em” của Đài truyền hình TP.HCM (HTV)](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/824-thông-báo-chương-trình-học-bổng-“ước-mơ-cho-em”-của-đài-truyền-hình-tp-hcm-htv)
- - **20/10/2023** - [DIỄN ĐÀN KHOA HỌC - DOANH NGHIỆP VÀ ĐỔI MỚI SÁNG TẠO LẦN I - 2023](https://math.hcmus.edu.vn//tin-tức/822-cuusv)
