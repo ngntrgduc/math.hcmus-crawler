@@ -1,3 +1,4 @@
+ - **06/12/2023** - [China-AUN Scholarship 2024/2025](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/840-china-aun-scholarship-2024-2025)
  - **29/11/2023** - [Recap Chuyến Tham Quan Công Ty HRS Group](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/837-recap-chuyến-tham-quan-công-ty-hrs-group)
  - **29/11/2023** - [2024 Engineering Science 21st Century Master's / PhD Program for International Students](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/838-2024-engineering-science-21st-century-master-s-phd-program-for-international-students)
  - **26/11/2023** - [THÔNG BÁO NỘP HỒ SƠ BẢO VỆ LUẬN VĂN THẠC SĨ TOÁN ỨNG DỤNG _ĐỢT THÁNG 12.2023](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/828-thông-báo-nộp-hồ-sơ-bảo-vệ-luận-văn-thạc-sĩ-toán-ứng-dụng-_đợt-tháng-12-2023)
