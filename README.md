@@ -1,3 +1,5 @@
+ - **08/12/2023** - [Thông báo SV đánh giá môn học và Giảng viên_HK1/2023-2024](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/844-thông-báo-sv-đánh-giá-môn-học-và-giảng-viên_hk1-2023-2024)
+ - **08/12/2023** - [Admission Prospectus Fall 2024-Spring 2025](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/842-admission-prospectus-fall-2024-spring-2025)
  - **06/12/2023** - [China-AUN Scholarship 2024/2025](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/840-china-aun-scholarship-2024-2025)
  - **29/11/2023** - [Recap Chuyến Tham Quan Công Ty HRS Group](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/837-recap-chuyến-tham-quan-công-ty-hrs-group)
  - **29/11/2023** - [2024 Engineering Science 21st Century Master's / PhD Program for International Students](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/838-2024-engineering-science-21st-century-master-s-phd-program-for-international-students)
