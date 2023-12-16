@@ -1,3 +1,6 @@
+ - **15/12/2023** - [Lễ tốt nghiệp khoa Toán - Tin học năm 2023](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/846-lễ-tốt-nghiệp-khoa-toán-tin-học-năm-2023)
+ - **15/12/2023** - [Seminar Nghiên cứu sinh, Bộ môn Giải tích 2023-2024](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/848-seminar-nghiên-cứu-sinh,-bộ-môn-giải-tích-2023-2024)
+ - **15/12/2023** - [Mathematical Analysis Seminar, Academic Year 2023-2024](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/847-mathematical-analysis-seminar,-academic-year-2023-2024)
  - **11/12/2023** - [INDUSTRIAL JOBS FOR MATH PHD, AN UNPOPULAR STORY](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/845-industrial-jobs-for-math-phd,-an-unpopular-story)
  - **08/12/2023** - [Thông báo SV đánh giá môn học và Giảng viên_HK1/2023-2024](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/844-thông-báo-sv-đánh-giá-môn-học-và-giảng-viên_hk1-2023-2024)
  - **08/12/2023** - [Admission Prospectus Fall 2024-Spring 2025](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/842-admission-prospectus-fall-2024-spring-2025)
