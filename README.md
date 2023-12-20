@@ -1,3 +1,4 @@
+ - **19/12/2023** - [Thông báo Nộp hồ sơ đăng ký bảo vệ luận văn Thạc sĩ Lý thuyết Xác suất và Thống kê Toán (14h00, 06/12/2023)](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/849-thông-báo-nộp-hồ-sơ-đăng-ký-bảo-vệ-luận-văn-thạc-sĩ-lý-thuyết-xác-suất-và-thống-kê-toán-14h00,-06-12-2023)
  - **15/12/2023** - [Lễ tốt nghiệp khoa Toán - Tin học năm 2023](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/846-lễ-tốt-nghiệp-khoa-toán-tin-học-năm-2023)
  - **15/12/2023** - [Seminar Nghiên cứu sinh, Bộ môn Giải tích 2023-2024](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/848-seminar-nghiên-cứu-sinh,-bộ-môn-giải-tích-2023-2024)
  - **15/12/2023** - [Mathematical Analysis Seminar, Academic Year 2023-2024](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/847-mathematical-analysis-seminar,-academic-year-2023-2024)
