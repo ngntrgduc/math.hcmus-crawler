@@ -1,3 +1,4 @@
+ - **26/12/2023** - [THÔNG BÁO: V/v triển khai thu thập thông tin sức khỏe sinh viên năm học 2023 – 2024](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/856-thông-báo-v-v-triển-khai-thu-thập-thông-tin-sức-khỏe-sinh-viên-năm-học-2023-–-2024)
  - **25/12/2023** - [Seminar in Mathematics, Academic Year 2023-2024 ](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/854-seminar-in-mathematics,-academic-year-2023-2024)
  - **22/12/2023** - [Seminar Wear-Then-Act: Wearables for Personalized Healthcare & HCI (Assistant Professor Anh Nguyen)](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/850-seminar-wear-then-act-wearables-for-personalized-healthcare-hci-assistant-professor-anh-nguyen)
  - **22/12/2023** - [Buổi trình bày toán học: Các bất đẳng thức đẳng chu “tái chuẩn hoá”](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/852-buổi-trình-bày-toán-học-các-bất-đẳng-thức-đẳng-chu-“tái-chuẩn-hoá”)
