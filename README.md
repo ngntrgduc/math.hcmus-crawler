@@ -1,3 +1,4 @@
+ - **02/01/2024** - [Lịch bảo vệ Khóa luận Tốt nghiệp HK1/2023-2024](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/860-lịch-bảo-vệ-khóa-luận-tốt-nghiệp-hk1-2023-2024)
  - **26/12/2023** - [THÔNG BÁO: V/v triển khai thu thập thông tin sức khỏe sinh viên năm học 2023 – 2024](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/856-thông-báo-v-v-triển-khai-thu-thập-thông-tin-sức-khỏe-sinh-viên-năm-học-2023-–-2024)
  - **25/12/2023** - [Seminar in Mathematics, Academic Year 2023-2024 ](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/854-seminar-in-mathematics,-academic-year-2023-2024)
  - **22/12/2023** - [Seminar Wear-Then-Act: Wearables for Personalized Healthcare & HCI (Assistant Professor Anh Nguyen)](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/850-seminar-wear-then-act-wearables-for-personalized-healthcare-hci-assistant-professor-anh-nguyen)
@@ -6,4 +7,3 @@
  - **15/12/2023** - [Lễ tốt nghiệp khoa Toán - Tin học năm 2023](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/846-lễ-tốt-nghiệp-khoa-toán-tin-học-năm-2023)
  - **15/12/2023** - [Seminar Nghiên cứu sinh, Bộ môn Giải tích 2023-2024](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/848-seminar-nghiên-cứu-sinh,-bộ-môn-giải-tích-2023-2024)
  - **15/12/2023** - [Mathematical Analysis Seminar, Academic Year 2023-2024](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/847-mathematical-analysis-seminar,-academic-year-2023-2024)
- - **11/12/2023** - [INDUSTRIAL JOBS FOR MATH PHD, AN UNPOPULAR STORY](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/845-industrial-jobs-for-math-phd,-an-unpopular-story)
