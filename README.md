@@ -1,3 +1,4 @@
+ - **07/01/2024** - [Đại học Padova: Chương trình thạc sĩ cho sinh viên tốt nghiệp hướng Toán, hướng Tin và Khoa học dữ liệu.](https://math.hcmus.edu.vn//tin-tức/tin-học-bổng-việc-làm/867-đại-học-padova-chương-trình-thạc-sĩ-cho-sinh-viên-tốt-nghiệp-hướng-toán,-hướng-tin-và-khoa-học-dữ-liệu)
  - **06/01/2024** - [Thông báo Tuyển chọn đội tuyển tham gia kỳ thi Olympic Toán học Sinh viên và Học sinh năm 2024](https://math.hcmus.edu.vn//tin-tức/thông-tin-toán-tin-học/866-thông-báo-tuyển-chọn-đội-tuyển-tham-gia-kỳ-thi-olympic-toán-học-sinh-viên-và-học-sinh-năm-2024)
  - **02/01/2024** - [Seminar in Mathematics, Academic Year 2023-2024 ](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/854-seminar-in-mathematics,-academic-year-2023-2024)
  - **02/01/2024** - [Buổi trình bày toán học: Các bất đẳng thức đẳng chu “tái chuẩn hoá”](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/852-buổi-trình-bày-toán-học-các-bất-đẳng-thức-đẳng-chu-“tái-chuẩn-hoá”)
