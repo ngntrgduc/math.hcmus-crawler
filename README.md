@@ -5,4 +5,3 @@
  - **02/01/2024** - [Lịch bảo vệ Khóa luận Tốt nghiệp HK1/2023-2024](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/860-lịch-bảo-vệ-khóa-luận-tốt-nghiệp-hk1-2023-2024)
  - **26/12/2023** - [THÔNG BÁO: V/v triển khai thu thập thông tin sức khỏe sinh viên năm học 2023 – 2024](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/856-thông-báo-v-v-triển-khai-thu-thập-thông-tin-sức-khỏe-sinh-viên-năm-học-2023-–-2024)
  - **22/12/2023** - [Seminar Wear-Then-Act: Wearables for Personalized Healthcare & HCI (Assistant Professor Anh Nguyen)](https://math.hcmus.edu.vn//tin-tức/tin-nghiên-cứu/850-seminar-wear-then-act-wearables-for-personalized-healthcare-hci-assistant-professor-anh-nguyen)
- - **19/12/2023** - [Thông báo Nộp hồ sơ đăng ký bảo vệ luận văn Thạc sĩ Lý thuyết Xác suất và Thống kê Toán (14h00, 06/12/2023)](https://math.hcmus.edu.vn//tin-tức/tin-giáo-vụ/849-thông-báo-nộp-hồ-sơ-đăng-ký-bảo-vệ-luận-văn-thạc-sĩ-lý-thuyết-xác-suất-và-thống-kê-toán-14h00,-06-12-2023)
