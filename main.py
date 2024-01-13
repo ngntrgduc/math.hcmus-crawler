@@ -13,7 +13,8 @@ dates = [_.text.replace('\t', '').strip()
 
 with open('README.md', 'r', encoding='utf-8') as f:
     old_data = f.read()
-    old_link = re.findall(r'http.*\w', old_data)
+    old_link = re.findall(r'http.*\)', old_data)
+    old_link = [link[:-1] for link in old_link]
 
 with open('README.md', 'w', encoding='utf-8') as f:
     for i, title in enumerate(news):
