@@ -12,4 +12,4 @@ dates = [_.text.replace('\t', '').strip()
 
 with open('README.md', 'w', encoding='utf-8') as f:
     for i, new in enumerate(news):
-        f.write(f' - **{dates[i]}** - [{new}](https://math.hcmus.edu.vn/{links[i]})\n')
+        f.write(f' - **{dates[i]}** - [{new}](https://math.hcmus.edu.vn{links[i]})\n')
