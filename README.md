@@ -1,3 +1,4 @@
+ - **25/01/2024** - [***[Dự kiến] Thời khóa biểu bậc đại học học kì 2 năm học 2023-2024***](https://math.hcmus.edu.vn/tin-tức/tin-giáo-vụ/875-dự-kiến-thời-khóa-biểu-bậc-đại-học-học-kì-2-năm-học-2023-2024)
  - **23/01/2024** - [Webminar về huấn luyện các kỹ năng thực hành phân tích số liệu cho sinh viên](https://math.hcmus.edu.vn/tin-tức/tin-nghiên-cứu/874-webminar_actuarial_23jan24)
  - **23/01/2024** - [Thông báo Tuyển chọn đội tuyển tham gia kỳ thi Olympic Toán học Sinh viên và Học sinh năm 2024](https://math.hcmus.edu.vn/tin-tức/thông-tin-toán-tin-học/866-thông-báo-tuyển-chọn-đội-tuyển-tham-gia-kỳ-thi-olympic-toán-học-sinh-viên-và-học-sinh-năm-2024)
  - **23/01/2024** - [Thông báo ĐKHP: Seminar - Khóa luận tốt nghiệp - Thực tập đồ án thực tế - Đồ án tốt nghiệp, HK2/2023-2024](https://math.hcmus.edu.vn/tin-tức/tin-giáo-vụ/872-thông-báo-đkhp-seminar-khóa-luận-tốt-nghiệp-thực-tập-đồ-án-thực-tế-đồ-án-tốt-nghiệp,-hk2-2023-2024)
