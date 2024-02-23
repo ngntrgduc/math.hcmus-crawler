@@ -1,3 +1,4 @@
+ - **22/02/2024** - [KẾT QUẢ: CHỌN ĐỘI TUYỂN THAM GIA KỲ THI OLYMPIC TOÁN SV-HS NĂM 2024](https://math.hcmus.edu.vn/tin-tức/thông-tin-toán-tin-học/885-kết-quả-chọn-đội-tuyển-tham-gia-kỳ-thi-olympic-toán-sv-hs-năm-2024)
  - **20/02/2024** - [Webminar về huấn luyện các kỹ năng thực hành phân tích số liệu cho sinh viên (Session 3 - 21/02/24)](https://math.hcmus.edu.vn/tin-tức/tin-nghiên-cứu/874-webminar_actuarial_23jan24)
  - **20/02/2024** - [Học bổng Thạc sĩ toàn phần tại Hoa Kỳ Fulbright năm học 2025-2026](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/883-học-bổng-thạc-sĩ-toàn-phần-tại-hoa-kỳ-fulbright-năm-học-2025-2026)
  - **20/02/2024** - [Học bổng Chương trình Toán học kỳ II năm học 2023 – 2024](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/877-học-bổng-chương-trình-toán-học-kỳ-ii-năm-học-2023-–-2024)
