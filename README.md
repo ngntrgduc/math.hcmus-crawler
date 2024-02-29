@@ -1,5 +1,7 @@
+ - **28/02/2024** - [Thông báo thay đổi Phòng học](https://math.hcmus.edu.vn/tin-tức/tin-giáo-vụ/892-thông-báo-thay-đổi-phòng-học-2)
+ - **28/02/2024** - [Mathematical Analysis Seminar, Academic Year 2023-2024](https://math.hcmus.edu.vn/tin-tức/tin-nghiên-cứu/890-mathematical-analysis-seminar-academic-year-2023-2024)
+ - **28/02/2024** - [Học bổng Chương trình Toán học kỳ II năm học 2023 – 2024](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/877-học-bổng-chương-trình-toán-học-kỳ-ii-năm-học-2023-–-2024)
  - **27/02/2024** - [Thông báo thời hạn nhận Đơn xin học vượt tín chỉ_HK2/2023-2024](https://math.hcmus.edu.vn/tin-tức/tin-giáo-vụ/889-thông-báo-thời-hạn-nhận-đơn-xin-học-vượt-tín-chỉ_hk2-2023-2024)
- - **25/02/2024** - [Học bổng Chương trình Toán học kỳ II năm học 2023 – 2024](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/877-học-bổng-chương-trình-toán-học-kỳ-ii-năm-học-2023-–-2024)
  - **25/02/2024** - [Thông báo các học phần bị Hủy_HK2/2023-2024](https://math.hcmus.edu.vn/tin-tức/tin-giáo-vụ/888-thông-báo-các-học-phần-bị-hủy_hk2-2023-2024)
  - **24/02/2024** - [Đăng ký tham dự Trường xuân về Vận trù học và Ứng dụng](https://math.hcmus.edu.vn/tin-tức/thông-tin-toán-tin-học/887-đăng-ký-tham-dự-trường-xuân-về-vận-trù-học-và-ứng-dụng)
  - **23/02/2024** - [Thông báo các học phần tương đương, HK2/2023-2024](https://math.hcmus.edu.vn/tin-tức/tin-giáo-vụ/876-thông-báo-các-học-phần-tương-đương,-hk2-2023-2024)
