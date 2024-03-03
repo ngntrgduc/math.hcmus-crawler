@@ -10,6 +10,9 @@ links = [f'https://math.hcmus.edu.vn{_.attrs["href"]}' for _ in raw]
 dates = [_.text.replace('\t', '').strip()
          for _ in soup.find_all(class_='mod-articles-category-date')]
 
+def format(date):
+    return '/'.join(date.split('/')[:2])
+
 with open('README.md', 'w', encoding='utf-8') as f:
     for date, title, link in zip(dates, news, links):
-        f.write(f' - **{date}** - [{title}]({link})\n')
+        f.write(f' - **{format(date)}**: [{title}]({link})\n')
