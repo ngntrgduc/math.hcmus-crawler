@@ -1,3 +1,4 @@
+ - **06/03**: [Chương trình bài giảng đại chúng tại Trường THPT chuyên Thăng Long](https://math.hcmus.edu.vn/tin-tức/thông-tin-toán-tin-học/893-chương-trình-bài-giảng-đại-chúng-tại-trường-thpt-chuyên-thăng-long)
  - **28/02**: [Thông báo thay đổi Phòng học](https://math.hcmus.edu.vn/tin-tức/tin-giáo-vụ/892-thông-báo-thay-đổi-phòng-học-2)
  - **28/02**: [Mathematical Analysis Seminar, Academic Year 2023-2024](https://math.hcmus.edu.vn/tin-tức/tin-nghiên-cứu/890-mathematical-analysis-seminar-academic-year-2023-2024)
  - **28/02**: [Học bổng Chương trình Toán học kỳ II năm học 2023 – 2024](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/877-học-bổng-chương-trình-toán-học-kỳ-ii-năm-học-2023-–-2024)
