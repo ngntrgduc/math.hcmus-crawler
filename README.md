@@ -10,4 +10,3 @@
  - **20/02**: [Webminar về huấn luyện các kỹ năng thực hành phân tích số liệu cho sinh viên (Session 3 - 21/02/24)](https://math.hcmus.edu.vn/tin-tức/tin-nghiên-cứu/874-webminar_actuarial_23jan24)
  - **20/02**: [Học bổng Thạc sĩ toàn phần tại Hoa Kỳ Fulbright năm học 2025-2026](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/883-học-bổng-thạc-sĩ-toàn-phần-tại-hoa-kỳ-fulbright-năm-học-2025-2026)
  - **20/02**: [Nộp đơn đăng ký xét vào/ra Chương trình Tài năng Học kì 2 Năm học 2023-2024](https://math.hcmus.edu.vn/tin-tức/tin-giáo-vụ/882-nộp-đơn-đăng-ký-xét-vào-ra-chương-trình-tài-năng-học-kì-2-năm-học-2023-2024)
- - **15/02**: [Thông báo ĐKHP: Seminar - Khóa luận tốt nghiệp - Thực tập đồ án thực tế - Đồ án tốt nghiệp, HK2/2023-2024](https://math.hcmus.edu.vn/tin-tức/tin-giáo-vụ/872-thông-báo-đkhp-seminar-khóa-luận-tốt-nghiệp-thực-tập-đồ-án-thực-tế-đồ-án-tốt-nghiệp,-hk2-2023-2024)
