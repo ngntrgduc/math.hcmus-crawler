@@ -1,4 +1,4 @@
- - **11/03**: [Thông báo thay đổi Phòng học (cập nhật)](https://math.hcmus.edu.vn/tin-tức/tin-giáo-vụ/892-thông-báo-thay-đổi-phòng-học-2)
+ - **12/03**: [Thông báo thay đổi Phòng học (cập nhật)](https://math.hcmus.edu.vn/tin-tức/tin-giáo-vụ/892-thông-báo-thay-đổi-phòng-học-2)
  - **09/03**: [Webminar về huấn luyện các kỹ năng mềm cho sinh viên](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/894-webminar_softskills_03mars)
  - **06/03**: [Chương trình bài giảng đại chúng tại Trường THPT chuyên Thăng Long](https://math.hcmus.edu.vn/tin-tức/thông-tin-toán-tin-học/893-chương-trình-bài-giảng-đại-chúng-tại-trường-thpt-chuyên-thăng-long)
  - **28/02**: [Mathematical Analysis Seminar, Academic Year 2023-2024](https://math.hcmus.edu.vn/tin-tức/tin-nghiên-cứu/890-mathematical-analysis-seminar-academic-year-2023-2024)
@@ -8,6 +8,3 @@
  - **24/02**: [Đăng ký tham dự Trường xuân về Vận trù học và Ứng dụng](https://math.hcmus.edu.vn/tin-tức/thông-tin-toán-tin-học/887-đăng-ký-tham-dự-trường-xuân-về-vận-trù-học-và-ứng-dụng)
  - **23/02**: [Thông báo các học phần tương đương, HK2/2023-2024](https://math.hcmus.edu.vn/tin-tức/tin-giáo-vụ/876-thông-báo-các-học-phần-tương-đương,-hk2-2023-2024)
  - **22/02**: [KẾT QUẢ: CHỌN ĐỘI TUYỂN THAM GIA KỲ THI OLYMPIC TOÁN SV-HS NĂM 2024](https://math.hcmus.edu.vn/tin-tức/thông-tin-toán-tin-học/885-kết-quả-chọn-đội-tuyển-tham-gia-kỳ-thi-olympic-toán-sv-hs-năm-2024)
- - **20/02**: [Webminar về huấn luyện các kỹ năng thực hành phân tích số liệu cho sinh viên (Session 3 - 21/02/24)](https://math.hcmus.edu.vn/tin-tức/tin-nghiên-cứu/874-webminar_actuarial_23jan24)
- - **20/02**: [Học bổng Thạc sĩ toàn phần tại Hoa Kỳ Fulbright năm học 2025-2026](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/883-học-bổng-thạc-sĩ-toàn-phần-tại-hoa-kỳ-fulbright-năm-học-2025-2026)
- - **20/02**: [Nộp đơn đăng ký xét vào/ra Chương trình Tài năng Học kì 2 Năm học 2023-2024](https://math.hcmus.edu.vn/tin-tức/tin-giáo-vụ/882-nộp-đơn-đăng-ký-xét-vào-ra-chương-trình-tài-năng-học-kì-2-năm-học-2023-2024)
