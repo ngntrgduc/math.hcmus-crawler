@@ -7,4 +7,3 @@
  - **25/02**: [Thông báo các học phần bị Hủy_HK2/2023-2024](https://math.hcmus.edu.vn/tin-tức/tin-giáo-vụ/888-thông-báo-các-học-phần-bị-hủy_hk2-2023-2024)
  - **24/02**: [Đăng ký tham dự Trường xuân về Vận trù học và Ứng dụng](https://math.hcmus.edu.vn/tin-tức/thông-tin-toán-tin-học/887-đăng-ký-tham-dự-trường-xuân-về-vận-trù-học-và-ứng-dụng)
  - **23/02**: [Thông báo các học phần tương đương, HK2/2023-2024](https://math.hcmus.edu.vn/tin-tức/tin-giáo-vụ/876-thông-báo-các-học-phần-tương-đương,-hk2-2023-2024)
- - **22/02**: [KẾT QUẢ: CHỌN ĐỘI TUYỂN THAM GIA KỲ THI OLYMPIC TOÁN SV-HS NĂM 2024](https://math.hcmus.edu.vn/tin-tức/thông-tin-toán-tin-học/885-kết-quả-chọn-đội-tuyển-tham-gia-kỳ-thi-olympic-toán-sv-hs-năm-2024)
