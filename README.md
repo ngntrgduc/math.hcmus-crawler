@@ -1,3 +1,5 @@
+ - **22/03**: [Giải thưởng UL Research Institutes-ASEAN-U.S. Science Prize for Women](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/896-giải-thưởng-ul-research-institutes-asean-u-s-science-prize-for-women)
+ - **22/03**: [Thông báo chương trình học bổng Quad Fellowship dành cho trình độ Thạc sỹ và Tiến sỹ trong lĩnh vực STEM năm 2024](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/895-thông-báo-chương-trình-học-bổng-quad-fellowship-dành-cho-trình-độ-thạc-sỹ-và-tiến-sỹ-trong-lĩnh-vực-stem-năm-2024)
  - **19/03**: [Thông báo các học phần tương đương, HK2/2023-2024](https://math.hcmus.edu.vn/tin-tức/tin-giáo-vụ/876-thông-báo-các-học-phần-tương-đương,-hk2-2023-2024)
  - **18/03**: [Chương trình bài giảng đại chúng tại Trường THPT chuyên Thăng Long](https://math.hcmus.edu.vn/tin-tức/thông-tin-toán-tin-học/893-chương-trình-bài-giảng-đại-chúng-tại-trường-thpt-chuyên-thăng-long)
  - **13/03**: [Thông báo thay đổi Phòng học (cập nhật)](https://math.hcmus.edu.vn/tin-tức/tin-giáo-vụ/892-thông-báo-thay-đổi-phòng-học-2)
