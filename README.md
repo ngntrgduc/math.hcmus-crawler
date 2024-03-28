@@ -1,3 +1,4 @@
+ - **27/03**: [Chương trình Global Young Leaders 2024/25 - POSTECH và POSCO Group](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/899-chương-trình-global-young-leaders-2024-25-postech-và-posco-group)
  - **25/03**: [Đại học Y dược TP. HCM tuyển dụng giảng viên Bộ môn Tin học](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/898-tintuyendung_dhyd)
  - **22/03**: [Giải thưởng UL Research Institutes-ASEAN-U.S. Science Prize for Women](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/896-giải-thưởng-ul-research-institutes-asean-u-s-science-prize-for-women)
  - **22/03**: [Thông báo chương trình học bổng Quad Fellowship dành cho trình độ Thạc sỹ và Tiến sỹ trong lĩnh vực STEM năm 2024](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/895-thông-báo-chương-trình-học-bổng-quad-fellowship-dành-cho-trình-độ-thạc-sỹ-và-tiến-sỹ-trong-lĩnh-vực-stem-năm-2024)
