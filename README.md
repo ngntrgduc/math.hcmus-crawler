@@ -1,3 +1,5 @@
+ - **28/03**: [Chương trình AI Residency tại FPT Software - Batch 5](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/902-chương-trình-ai-residency-tại-fpt-software-batch-5)
+ - **28/03**: [VỀ ĐÂY NHỮNG YÊU THƯƠNG - CHÀO MỪNG NGÀY TRUYỀN THỐNG CỰU SINH VIÊN KHOA HỌC](https://math.hcmus.edu.vn/quan-he-hop-tac/cuu-sinh-vien/901-về-đây-những-yêu-thương-chào-mừng-ngày-truyền-thống-cựu-sinh-viên-khoa-học)
  - **27/03**: [Chương trình Global Young Leaders 2024/25 - POSTECH và POSCO Group](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/899-chương-trình-global-young-leaders-2024-25-postech-và-posco-group)
  - **25/03**: [Đại học Y dược TP. HCM tuyển dụng giảng viên Bộ môn Tin học](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/898-tintuyendung_dhyd)
  - **22/03**: [Giải thưởng UL Research Institutes-ASEAN-U.S. Science Prize for Women](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/896-giải-thưởng-ul-research-institutes-asean-u-s-science-prize-for-women)
