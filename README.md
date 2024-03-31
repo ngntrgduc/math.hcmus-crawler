@@ -7,4 +7,3 @@
  - **19/03**: [Thông báo các học phần tương đương, HK2/2023-2024](https://math.hcmus.edu.vn/tin-tức/tin-giáo-vụ/876-thông-báo-các-học-phần-tương-đương,-hk2-2023-2024)
  - **18/03**: [Chương trình bài giảng đại chúng tại Trường THPT chuyên Thăng Long](https://math.hcmus.edu.vn/tin-tức/thông-tin-toán-tin-học/893-chương-trình-bài-giảng-đại-chúng-tại-trường-thpt-chuyên-thăng-long)
  - **13/03**: [Thông báo thay đổi Phòng học (cập nhật)](https://math.hcmus.edu.vn/tin-tức/tin-giáo-vụ/892-thông-báo-thay-đổi-phòng-học-2)
- - **09/03**: [Webminar về huấn luyện các kỹ năng mềm cho sinh viên](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/894-webminar_softskills_03mars)
