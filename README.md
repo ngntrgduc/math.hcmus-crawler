@@ -1,3 +1,4 @@
+ - **09/04**: [Khoa Toán - Tin học nhận Giấy chứng nhận Kiểm định Quốc tế theo tiêu chuẩn Châu âu ngành Toán học](https://math.hcmus.edu.vn/tin-tức/912-assin-certificate-090424)
  - **08/04**: [Kết quả xét, cấp học bổng học kỳ 2, năm học 2023-2024 cho sinh viên hệ đào tạo chính quy ngành Toán thuộc Chương trình trọng điểm quốc gia phát triển Toán học giai đoạn 2021 đến 2030](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/910-kết-quả-xét,-cấp-học-bổng-học-kỳ-2,-năm-học-2023-2024-cho-sinh-viên-hệ-đào-tạo-chính-quy-ngành-toán-thuộc-chương-trình-trọng-điểm-quốc-gia-phát-triển-toán-học-giai-đoạn-2021-đến-2030)
  - **08/04**: [Khóa học ngắn hạn: Demography Cơ Bản – Introduction To Demography](https://math.hcmus.edu.vn/tin-tức/tin-nghiên-cứu/911-khóa-học-ngắn-han·)
  - **05/04**: [Hội thảo hè 2024 - Toyota Technology Institute, Nhật Bản](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/904-hội-thảo-hè-2024-toyota-technology-institute,-nhật-bản)
@@ -12,4 +13,3 @@
  - **25/03**: [Đại học Y dược TP. HCM tuyển dụng giảng viên Bộ môn Tin học](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/898-tintuyendung_dhyd)
  - **22/03**: [Giải thưởng UL Research Institutes-ASEAN-U.S. Science Prize for Women](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/896-giải-thưởng-ul-research-institutes-asean-u-s-science-prize-for-women)
  - **22/03**: [Thông báo chương trình học bổng Quad Fellowship dành cho trình độ Thạc sỹ và Tiến sỹ trong lĩnh vực STEM năm 2024](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/895-thông-báo-chương-trình-học-bổng-quad-fellowship-dành-cho-trình-độ-thạc-sỹ-và-tiến-sỹ-trong-lĩnh-vực-stem-năm-2024)
- - **19/03**: [Thông báo các học phần tương đương, HK2/2023-2024](https://math.hcmus.edu.vn/tin-tức/tin-giáo-vụ/876-thông-báo-các-học-phần-tương-đương,-hk2-2023-2024)
