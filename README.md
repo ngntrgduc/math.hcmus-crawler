@@ -1,5 +1,5 @@
+ - **15/04**: [HỌC BỔNG CATHAY 2024 - “Thịnh trí thành tài cùng Cathay” lần thứ 17](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/914-học-bổng-cathay-2024-“thịnh-trí-thành-tài-cùng-cathay”-lần-thứ-17)
  - **15/04**: [Bế mạc Olympic Toán học SV-HS năm 2024](https://math.hcmus.edu.vn/tin-tức/thông-tin-toán-tin-học/915-bế-mạc-olympic-toán-học-sv-hs-năm-2024)
- - **12/04**: [HỌC BỔNG CATHAY 2024 - “Thịnh trí thành tài cùng Cathay” lần thứ 17](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/914-học-bổng-cathay-2024-“thịnh-trí-thành-tài-cùng-cathay”-lần-thứ-17)
  - **12/04**: [Seminar Xác suất – Thống kê tháng 04.2024: Effect of Excess Mortality on Longevity during the Covid-19 Pandemic in South Asia](https://math.hcmus.edu.vn/tin-tức/tin-nghiên-cứu/913-seminar-xác-suất-–-thống-kê-tháng-04-2024-effect-of-excess-mortality-on-longevity-during-the-covid-19-pandemic-in-south-asia)
  - **10/04**: [Khóa học ngắn hạn: Demography Cơ Bản – Introduction To Demography](https://math.hcmus.edu.vn/tin-tức/tin-nghiên-cứu/911-khóa-học-ngắn-han·)
  - **09/04**: [Khoa Toán - Tin học nhận Giấy chứng nhận Kiểm định Quốc tế theo tiêu chuẩn Châu âu ngành Toán học](https://math.hcmus.edu.vn/tin-tức/912-assin-certificate-090424)
@@ -13,4 +13,3 @@
  - **28/03**: [Chương trình AI Residency tại FPT Software - Batch 5](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/902-chương-trình-ai-residency-tại-fpt-software-batch-5)
  - **28/03**: [VỀ ĐÂY NHỮNG YÊU THƯƠNG - CHÀO MỪNG NGÀY TRUYỀN THỐNG CỰU SINH VIÊN KHOA HỌC](https://math.hcmus.edu.vn/quan-he-hop-tac/cuu-sinh-vien/901-về-đây-những-yêu-thương-chào-mừng-ngày-truyền-thống-cựu-sinh-viên-khoa-học)
  - **27/03**: [Chương trình Global Young Leaders 2024/25 - POSTECH và POSCO Group](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/899-chương-trình-global-young-leaders-2024-25-postech-và-posco-group)
- - **25/03**: [Đại học Y dược TP. HCM tuyển dụng giảng viên Bộ môn Tin học](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/898-tintuyendung_dhyd)
