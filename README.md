@@ -12,4 +12,3 @@
  - **02/04**: [Master Program “Intelligence Science, Engineering and Technology” - National CHUNG HSING University](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/903-master-program-“intelligence-science,-engineering-and-technology”-national-chung-hsing-university)
  - **28/03**: [Chương trình AI Residency tại FPT Software - Batch 5](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/902-chương-trình-ai-residency-tại-fpt-software-batch-5)
  - **28/03**: [VỀ ĐÂY NHỮNG YÊU THƯƠNG - CHÀO MỪNG NGÀY TRUYỀN THỐNG CỰU SINH VIÊN KHOA HỌC](https://math.hcmus.edu.vn/quan-he-hop-tac/cuu-sinh-vien/901-về-đây-những-yêu-thương-chào-mừng-ngày-truyền-thống-cựu-sinh-viên-khoa-học)
- - **27/03**: [Chương trình Global Young Leaders 2024/25 - POSTECH và POSCO Group](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/899-chương-trình-global-young-leaders-2024-25-postech-và-posco-group)
