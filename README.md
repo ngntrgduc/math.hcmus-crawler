@@ -10,5 +10,3 @@
  - **04/04**: [CHƯƠNG TRÌNH HỖ TRỢ CÔNG BỐ KHOA HỌC VÀ CÔNG NGHỆ (Đợt 2/2024)](https://math.hcmus.edu.vn/tin-tức/thông-tin-toán-tin-học/907-chương-trình-hỗ-trợ-công-bố-khoa-học-và-công-nghệ-đợt-2-2024-%20)
  - **02/04**: [Thông báo số 01 – Hội nghị khoa học trẻ Trường Đại học Khoa học tự nhiên, ĐHQG-HCM – Lần 1, Năm 2024](https://math.hcmus.edu.vn/tin-tức/thông-tin-toán-tin-học/906-thông-báo-số-01-–-hội-nghị-khoa-học-trẻ-trường-đại-học-khoa-học-tự-nhiên,-đhqg-hcm-–-lần-1,-năm-2024)
  - **02/04**: [Master Program “Intelligence Science, Engineering and Technology” - National CHUNG HSING University](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/903-master-program-“intelligence-science,-engineering-and-technology”-national-chung-hsing-university)
- - **28/03**: [Chương trình AI Residency tại FPT Software - Batch 5](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/902-chương-trình-ai-residency-tại-fpt-software-batch-5)
- - **28/03**: [VỀ ĐÂY NHỮNG YÊU THƯƠNG - CHÀO MỪNG NGÀY TRUYỀN THỐNG CỰU SINH VIÊN KHOA HỌC](https://math.hcmus.edu.vn/quan-he-hop-tac/cuu-sinh-vien/901-về-đây-những-yêu-thương-chào-mừng-ngày-truyền-thống-cựu-sinh-viên-khoa-học)
