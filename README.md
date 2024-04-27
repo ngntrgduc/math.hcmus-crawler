@@ -1,3 +1,4 @@
+ - **26/04**: [MSCA Postdoctoral Fellowships 2024](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/916-msca-postdoctoral-fellowships-2024)
  - **22/04**: [Thông báo thay đổi Phòng học (cập nhật 22/4/2024)](https://math.hcmus.edu.vn/tin-tức/tin-giáo-vụ/892-thông-báo-thay-đổi-phòng-học-2)
  - **15/04**: [HỌC BỔNG CATHAY 2024 - “Thịnh trí thành tài cùng Cathay” lần thứ 17](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/914-học-bổng-cathay-2024-“thịnh-trí-thành-tài-cùng-cathay”-lần-thứ-17)
  - **15/04**: [Bế mạc Olympic Toán học SV-HS năm 2024](https://math.hcmus.edu.vn/tin-tức/thông-tin-toán-tin-học/915-bế-mạc-olympic-toán-học-sv-hs-năm-2024)
@@ -5,5 +6,3 @@
  - **10/04**: [Khóa học ngắn hạn: Demography Cơ Bản – Introduction To Demography](https://math.hcmus.edu.vn/tin-tức/tin-nghiên-cứu/911-khóa-học-ngắn-han·)
  - **09/04**: [Khoa Toán - Tin học nhận Giấy chứng nhận Kiểm định Quốc tế theo tiêu chuẩn Châu âu ngành Toán học](https://math.hcmus.edu.vn/tin-tức/912-assin-certificate-090424)
  - **08/04**: [Kết quả xét, cấp học bổng học kỳ 2, năm học 2023-2024 cho sinh viên hệ đào tạo chính quy ngành Toán thuộc Chương trình trọng điểm quốc gia phát triển Toán học giai đoạn 2021 đến 2030](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/910-kết-quả-xét,-cấp-học-bổng-học-kỳ-2,-năm-học-2023-2024-cho-sinh-viên-hệ-đào-tạo-chính-quy-ngành-toán-thuộc-chương-trình-trọng-điểm-quốc-gia-phát-triển-toán-học-giai-đoạn-2021-đến-2030)
- - **05/04**: [Hội thảo hè 2024 - Toyota Technology Institute, Nhật Bản](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/904-hội-thảo-hè-2024-toyota-technology-institute,-nhật-bản)
- - **05/04**: [Trường hè “Sinh viên thực tập nghiên cứu khoa học 2024”](https://math.hcmus.edu.vn/tin-tức/thông-tin-toán-tin-học/909-trường-hè-“sinh-viên-thực-tập-nghiên-cứu-khoa-học-2024”)
