@@ -4,4 +4,3 @@
  - **15/04**: [Bế mạc Olympic Toán học SV-HS năm 2024](https://math.hcmus.edu.vn/tin-tức/thông-tin-toán-tin-học/915-bế-mạc-olympic-toán-học-sv-hs-năm-2024)
  - **12/04**: [Seminar Xác suất – Thống kê tháng 04.2024: Effect of Excess Mortality on Longevity during the Covid-19 Pandemic in South Asia](https://math.hcmus.edu.vn/tin-tức/tin-nghiên-cứu/913-seminar-xác-suất-–-thống-kê-tháng-04-2024-effect-of-excess-mortality-on-longevity-during-the-covid-19-pandemic-in-south-asia)
  - **10/04**: [Khóa học ngắn hạn: Demography Cơ Bản – Introduction To Demography](https://math.hcmus.edu.vn/tin-tức/tin-nghiên-cứu/911-khóa-học-ngắn-han·)
- - **09/04**: [Khoa Toán - Tin học nhận Giấy chứng nhận Kiểm định Quốc tế theo tiêu chuẩn Châu âu ngành Toán học](https://math.hcmus.edu.vn/tin-tức/912-assin-certificate-090424)
