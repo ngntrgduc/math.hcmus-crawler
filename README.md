@@ -1,3 +1,4 @@
+ - **02/05**: [Hội thảo chương trình “Viết bài báo khoa học bằng LateX”](https://math.hcmus.edu.vn/tin-tức/tin-nghiên-cứu/917-hội-thảo-chương-trình-“viết-bài-báo-khoa-học-bằng-latex”)
  - **26/04**: [MSCA Postdoctoral Fellowships 2024](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/916-msca-postdoctoral-fellowships-2024)
  - **22/04**: [Thông báo thay đổi Phòng học (cập nhật 22/4/2024)](https://math.hcmus.edu.vn/tin-tức/tin-giáo-vụ/892-thông-báo-thay-đổi-phòng-học-2)
  - **15/04**: [HỌC BỔNG CATHAY 2024 - “Thịnh trí thành tài cùng Cathay” lần thứ 17](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/914-học-bổng-cathay-2024-“thịnh-trí-thành-tài-cùng-cathay”-lần-thứ-17)
