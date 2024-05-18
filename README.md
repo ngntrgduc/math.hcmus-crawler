@@ -10,4 +10,3 @@
  - **03/05**: [Chương trình học bổng của nhà tài trợ CNCF 2024](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/919-chương-trình-học-bổng-của-nhà-tài-trợ-cncf-2024)
  - **03/05**: [CHƯƠNG TRÌNH HỌC BỔNG BẬC ĐẠI HỌC PANASONIC NĂM 2024](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/920-chương-trình-học-bổng-bậc%20đại-học-panasonic-năm-2024)
  - **03/05**: [Thông báo Đăng ký Ngành và Chuyên ngành dành cho sinh viên khóa 2022](https://math.hcmus.edu.vn/tin-tức/tin-giáo-vụ/918-thông-báo-đăng-ký-ngành-và-chuyên-ngành-dành-cho-sinh-viên-khóa-2022)
- - **26/04**: [MSCA Postdoctoral Fellowships 2024](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/916-msca-postdoctoral-fellowships-2024)
