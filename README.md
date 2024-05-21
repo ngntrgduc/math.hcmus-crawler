@@ -1,3 +1,4 @@
+ - **20/05**: [THÔNG BÁO TỔ CHỨC BUỔI SINH HOẠT CUỐI KHOÁ NH2023-2024](https://math.hcmus.edu.vn/tin-tức/tin-giáo-vụ/927-thông-báo-tổ-chức-buổi-sinh-hoạt-cuối-khoá-nh2023-2024)
  - **13/05**: [TB địa điểm học SV K2021 trở về sau_chương trình đại trà](https://math.hcmus.edu.vn/tin-tức/tin-giáo-vụ/930-tb-địa-điểm-học-sv-k2021-trở-về-sau_chương-trình-đại-trà)
  - **13/05**: [Seminar: Ứng dụng AI/ML và Cloud trong lĩnh vực công nghệ du lịch và bài toán các tập đoàn toàn cầu đang gặp phải.](https://math.hcmus.edu.vn/tin-tức/thông-tin-toán-tin-học/929-seminar-ứng-dụng-ai-ml-và-cloud-trong-lĩnh-vực-công-nghệ-du-lịch-và-bài-toán-các-tập-đoàn-toàn-cầu-đang-gặp-phải)
  - **13/05**: [Thông báo Trường hè "Sinh Viên Thực Tập Nghiên Cứu Khoa Học"](https://math.hcmus.edu.vn/tin-tức/thông-tin-toán-tin-học/928-thông-báo-trường-hè-sinh-viên-thực-tập-nghiên-cứu-khoa-học)
