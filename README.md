@@ -9,4 +9,3 @@
  - **27/05**: [THÔNG BÁO TỔ CHỨC BUỔI SINH HOẠT CUỐI KHOÁ NH2023-2024](https://math.hcmus.edu.vn/tin-tức/tin-giáo-vụ/927-thông-báo-tổ-chức-buổi-sinh-hoạt-cuối-khoá-nh2023-2024)
  - **27/05**: [Buổi ký kết thỏa thuận hợp tác (MOU) giữa Khoa Toán - Tin học, Trường ĐH KHTN, ĐHQG-HCM và HRS GROUP](https://math.hcmus.edu.vn/tin-tức/thông-tin-toán-tin-học/932-buổi-ký-kết-thỏa-thuận-hợp-tác-mou-giữa-khoa-toán-tin-học,-trường-đh-khtn,-đhqg-hcm-và-hrs-group-việt-nam)
  - **27/05**: [Cathay Life Việt Nam - The product internship program 2024](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/931-cathay-life-việt-nam-the-product-internship-program-2024)
- - **24/05**: [Thông báo Sinh hoạt công dân cuối khoá năm học 2021-2022](https://math.hcmus.edu.vn/tin-tức/tin-giáo-vụ/588-thông-báo-sinh-hoạt-công-dân-cuối-khoá-năm-học-2021-2022)
