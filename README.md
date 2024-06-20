@@ -6,5 +6,3 @@
  - **05/06**: [Seminar Đại số: Nguyên lý qui nạp siêu hạn và ứng dụng trong các chứng minh Toán học](https://math.hcmus.edu.vn/tin-tức/tin-nghiên-cứu/939-seminar-đại-số-nguyên-lý-qui-nạp-siêu-hạn-và-ứng-dụng-trong-các-chứng-minh-toán-học)
  - **03/06**: [Thông báo Học bổng VALLET 2024 (Dành cho sinh viên Đại học)](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/935-thông-báo-học-bổng-vallet-2024-dành-cho-sinh-viên-đại-học)
  - **03/06**: [Đăng ký tham gia Trường hè Toán học sinh viên 2024](https://math.hcmus.edu.vn/tin-tức/thông-tin-toán-tin-học/938-đăng-kí-tham-gia-trường-hè-toán-học-sinh-viên-2024)
- - **29/05**: [TB Chương trình Học bổng Vừ A Dính năm học 2023-2024](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/936-tb-chương-trình-học-bổng-vừ-a-dính-năm-học-2023-2024)
- - **29/05**: [Seminar Giải tích năm học 2023-2024](https://math.hcmus.edu.vn/tin-tức/tin-nghiên-cứu/934-seminar-giải-tích-năm-học-2023-2024)
