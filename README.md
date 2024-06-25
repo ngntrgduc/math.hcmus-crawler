@@ -5,5 +5,3 @@
  - **13/06**: [Mini-course: Ma trận ngẫu nhiên lớn (8-12/7/2024)](https://math.hcmus.edu.vn/tin-tức/tin-nghiên-cứu/941-mini-course-lrm-8_12_7_24)
  - **06/06**: [Thông tin tuyển sinh các ngành của Khoa Toán - Tin học năm 2024](https://math.hcmus.edu.vn/tuyển-sinh/tuyen-sinh-dh2024)
  - **05/06**: [Seminar Đại số: Nguyên lý qui nạp siêu hạn và ứng dụng trong các chứng minh Toán học](https://math.hcmus.edu.vn/tin-tức/tin-nghiên-cứu/939-seminar-đại-số-nguyên-lý-qui-nạp-siêu-hạn-và-ứng-dụng-trong-các-chứng-minh-toán-học)
- - **03/06**: [Thông báo Học bổng VALLET 2024 (Dành cho sinh viên Đại học)](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/935-thông-báo-học-bổng-vallet-2024-dành-cho-sinh-viên-đại-học)
- - **03/06**: [Đăng ký tham gia Trường hè Toán học sinh viên 2024](https://math.hcmus.edu.vn/tin-tức/thông-tin-toán-tin-học/938-đăng-kí-tham-gia-trường-hè-toán-học-sinh-viên-2024)
