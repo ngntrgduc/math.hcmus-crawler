@@ -1,3 +1,4 @@
+ - **01/07**: [Mini – Course: High-dimensional Statistics](https://math.hcmus.edu.vn/tin-tức/tin-nghiên-cứu/951-mini-course-high-dimensional-statistics)
  - **28/06**: [Mathematics on the Crossroad of Centuries - A Conference in Honor of Maxim Kontsevich's 60th Birthday](https://math.hcmus.edu.vn/tin-tức/thông-tin-toán-tin-học/949-mathematics-on-the-crossroad-of-centuries-a-conference-in-honor-of-maxim-kontsevich-s-60th-birthday)
  - **26/06**: [TMA Tech Group tuyển dụng việc làm dành cho SV mới tốt nghiệp](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/948-tma-tech-group-tuyển-dụng-việc-làm-dành-cho-sv-mới-tốt-nghiệp)
  - **25/06**: [Lịch bảo vệ Khóa luận Tốt nghiệp - Đồ án tốt nghiệp, HK2/2023-2024](https://math.hcmus.edu.vn/tin-tức/tin-giáo-vụ/947-lịch-bảo-vệ-khóa-luận-tốt-nghiệp-đồ-án-tốt-nghiệp,-hk2-2023-2024)
