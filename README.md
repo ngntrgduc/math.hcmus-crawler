@@ -1,3 +1,4 @@
+ - **04/07**: [Chuyên đề: "KỸ NĂNG THUYẾT TRÌNH VÀ PHẢN BIỆN HỘI ĐỒNG KHOA HỌC"](https://math.hcmus.edu.vn/tin-tức/thông-tin-toán-tin-học/956-chuyên-đề-kỹ-năng-thuyết-trình-và-phản-biện-hội-đồng-khoa-học)
  - **02/07**: [Chương trình chuyên tu liên kết chính sách hướng Nam mới dành cho sinh viên ưu tú - Trường Đại học Công nghệ Đài Bắc](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/954-chương-trình-chuyên-tu-liên-kết-chính-sách-hướng-nam-mới-dành-cho-sinh-viên-ưu-tú-trường-đại-học-công-nghệ-đài-bắc)
  - **02/07**: [Chương trình Học bổng sau tiến sĩ nghiên cứu tại Nhật Bản (Postdoctoral Fellowship for Research in Japan)](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/952-chương-trình-học-bổng-sau-tiến-sĩ-nghiên-cứu-tại-nhật-bản-postdoctoral-fellowship-for-research-in-japan)
  - **01/07**: [Mini – Course: High-dimensional Statistics](https://math.hcmus.edu.vn/tin-tức/tin-nghiên-cứu/951-mini-course-high-dimensional-statistics)
@@ -8,4 +9,3 @@
  - **20/06**: [Thông báo mở học phần Hè (HK3/2023-2024) dành cho sinh viên học lại](https://math.hcmus.edu.vn/tin-tức/tin-giáo-vụ/940-thông-báo-mở-học-phần-hè-hk3-2023-2024-dành-cho-sinh-viên-học-lại)
  - **18/06**: [Học bổng thạc sĩ về Định phí bảo hiểm và Tuyển dụng của công ty Decent Acturial Consultants](https://math.hcmus.edu.vn/tin-tức/tin-học-bổng-việc-làm/944-aatcp-dac-june24)
  - **17/06**: [Bài giảng và giao lưu với Giáo sư Thomas Koberda](https://math.hcmus.edu.vn/tin-tức/tin-nghiên-cứu/942-bài-giảng-và-giao-lưu-với-giáo-sư-thomas-koberda)
- - **13/06**: [Mini-course: Ma trận ngẫu nhiên lớn (8-12/7/2024)](https://math.hcmus.edu.vn/tin-tức/tin-nghiên-cứu/941-mini-course-lrm-8_12_7_24)
